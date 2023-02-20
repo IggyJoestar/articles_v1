@@ -1,2 +1,2 @@
 # articles_v1
-Algunos artículos
+En esta parte subiré algunos artículos hechos en LaTEX, para ir practicando.
